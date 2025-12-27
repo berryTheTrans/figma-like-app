@@ -1,0 +1,5 @@
+{
+  "name": "OpenDesign Studio",
+  "description": "A browser-based vector design tool featuring infinite canvas, component systems, dev mode handoff, and Gemini AI-powered design generation.",
+  "requestFramePermissions": []
+}
